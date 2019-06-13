@@ -14,7 +14,7 @@ If you would like to figure out how to get a role please go to this GitHub site:
 Super Secret Update #1
 
 <h2>Update 1.10</h2>
-<p>Added the Birthday Oof role</p>
+<p>Added the Birthday Oof role
 Added the happy-birthday and birthday-setup channels
-<p>Added the Birthday Bot</p>
+Added the Birthday Bot</p>
 Removed the Dank Memer bot
