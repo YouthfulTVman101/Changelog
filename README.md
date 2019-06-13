@@ -1,4 +1,4 @@
-<h1>Oofs Of Robloxia Leaderboards</h1>
+<h1>Oofs Of Robloxia Changelog</h1>
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
