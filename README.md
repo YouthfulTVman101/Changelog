@@ -2,6 +2,12 @@
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h2>Update 1.14</h2>
+<ul>
+  <li>Removed Rule: No telling others about the secrets<li>
+  <li>Modified Rule: Rule 24, No excessive spoilers (3 at most)
+</ul>
+
 <h2>Update 1.13</h2>
 <ul>
   <li>The server info channel was moved to <a href="https://youthfultvman101.github.io/Home/">this</a></li>
