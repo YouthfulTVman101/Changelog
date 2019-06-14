@@ -2,6 +2,12 @@
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h2>Update 1.15</h2>
+<ul>
+  <li>Verified Oofs role is now a pink color</li>
+  <li>Reaction Roles are now below Oof Trainee</li>
+</ul>
+
 <h2>Update 1.14</h2>
 <ul>
   <li>Removed Rule: No telling others about the secrets</li>
