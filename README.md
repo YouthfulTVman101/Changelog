@@ -4,8 +4,8 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 
 <h2>Update 1.14</h2>
 <ul>
-  <li>Removed Rule: No telling others about the secrets<li>
-  <li>Modified Rule: Rule 24, No excessive spoilers (3 at most)
+  <li>Removed Rule: No telling others about the secrets</li>
+  <li>Modified Rule: Rule 24, No excessive spoilers (3 at most)</li>
 </ul>
 
 <h2>Update 1.13</h2>
