@@ -10,7 +10,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <h2>Update 1.12</h2>
 <ul>
   <li>We are no longer using a discord channel to tell you how to get a certain role</li>
-  <li>If you would like to figure out how to get a role please go to this GitHub <a href="https://youthfultvman101.github.io/Server-Roles/">site</a></li>
+  <li>If you would like to figure out how to get a role please go to our GitHub <a href="https://youthfultvman101.github.io/Server-Roles/">site</a></li>
   <li>This site will be updated periodically</li>
 </ul>
 
