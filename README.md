@@ -2,6 +2,11 @@
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h2>Update 1.17</h2>
+<ul>
+  <li>Changed QOTD to QOTW (question/quote of the week)</li>
+</ul>
+
 <h2>Update 1.16</h2>
 <ul>
   <li>Added the QOTD (question/quote of the day) channel</li>
