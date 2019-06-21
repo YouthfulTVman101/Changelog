@@ -141,4 +141,4 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
   <li>Added Server Versions</li>
 </ul>
 
-<h3>Updates before 1.00 were not assigned a number</h3>
+<h3>No previous updates logged</h3>
