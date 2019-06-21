@@ -2,6 +2,11 @@
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h2>Update 1.19 - June 20th, 2019</h2>
+<ul>
+  <li>Removed the No Spammed Caps rule</li>
+</ul>
+
 <h2>Update 1.18 - June 20th, 2019</h2>
 <ul>
   <li>Added the Artsy Oof role</li>
