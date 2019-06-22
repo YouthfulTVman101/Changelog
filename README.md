@@ -2,6 +2,13 @@
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h2>Update 1.22</h2>
+<h4>6/22/19</h4>
+<ul>
+  <li>Changed Weeb Oofs to Anime Oofs</li>
+  <li>Changed Weeb Talk to Anime Talk</li>
+</ul>
+
 <h2>Update 1.21</h2>
 <h4>6/21/19</h4>
 <ul>
