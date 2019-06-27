@@ -2,6 +2,12 @@
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h2>Update 1.23</h2>
+<h4>6/26/19</h4>
+<ul>
+  <li>Added a new chat filter</li>
+</ul>
+
 <h2>Update 1.22</h2>
 <h4>6/22/19</h4>
 <ul>
