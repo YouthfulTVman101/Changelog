@@ -2,6 +2,15 @@
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h2>Update 1.25</h2>
+<h4>7/4/19</h4>
+<ul>
+  <li>Staff members have a red color</li>
+  <li>Special oofs have a blue color</li>
+  <li>Everyone else has a white color</li>
+  <li>Exclusive role in the welcome channel depending on color</li>
+</ul>
+
 <h2>Update 1.24</h2>
 <h4>6/28/19</h4>
 <ul>
