@@ -6,6 +6,7 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 <h4>7/12/19</h4>
 <ul>
   <li>Added the QOTD Response channel</li>
+  <li>Updated the filter</li>
 </ul>
 
 <h2>Update 1.25</h2>
