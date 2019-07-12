@@ -2,6 +2,12 @@
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h2>Update 1.26</h2>
+<h4>7/12/19</h4>
+<ul>
+  <li>Added the QOTD Response channel</li>
+</ul>
+
 <h2>Update 1.25</h2>
 <h4>7/4/19</h4>
 <ul>
