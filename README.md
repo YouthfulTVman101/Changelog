@@ -2,6 +2,13 @@
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h2>Update 2.0</h2>
+<h4>9/17/19</h4>
+<ul>
+  <li>New wave of staff members</li>
+  <li>Added the 1.0 Staff Oof, 2.0 Staff Oof, First Generation Oof, and Second Generation Oof roles</li>
+</ul>
+
 <h2>Update 1.27</h2>
 <h4>7/28/19</h4>
 <ul>
