@@ -2,6 +2,20 @@
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h2>Update 2.2</h2>
+<h4>9/24/19</h4>
+<ul>
+  <li>Owner role changed to: The Almighty Oof</li>
+  <li>Co-Owner role changed to: Grand Lord Of Oofs</li>
+  <li>Lord Of Oofs are now Assistant Owners</li>
+</ul>
+
+<h2>Update 2.1</h2>
+<h4>9/22/19</h4>
+<ul>
+  <li>2 New Emojis</li>
+</ul>
+
 <h2>Update 2.0</h2>
 <h4>9/17/19</h4>
 <ul>
