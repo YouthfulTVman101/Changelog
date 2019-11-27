@@ -2,6 +2,12 @@
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h2>Update 2.3</h2>
+<h4>11/26/19</h4>
+<ul>
+  <li>New Role: Верховный Совет</li>
+</ul>
+
 <h2>Update 2.2</h2>
 <h4>9/24/19</h4>
 <ul>
