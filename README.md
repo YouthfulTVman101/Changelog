@@ -2,6 +2,12 @@
 <p>This is where you can see what was added in any update!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
+<h2>Update 2.5</h2>
+<h4>1/25/20</h4>
+<ul>
+  <li>Added the Bloxy Colas Talk Show</li>
+</ul>
+
 <h2>Update 2.4</h2>
 <h4>1/13/20</h4>
 <ul>
