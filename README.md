@@ -3,7 +3,7 @@
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
 <h2>Update 3.0</h2>
-<h4>8/24/2020</h4>
+<h4>8/24/20</h4>
 <ul>
   <li>Server has officially become public within the discord app</li>
   <li>Retired the Верховный Совет role</li>
